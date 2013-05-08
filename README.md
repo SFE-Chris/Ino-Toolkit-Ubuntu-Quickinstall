@@ -2,6 +2,9 @@ Ino-Toolkit-Ubuntu-Quickinstall
 ===============================
 A simple bash script to automate the install and setup of Ino Toolkit on Ubuntu
 
+Usage:
+	sudo ./ino_ubuntu_quickinstall.sh
+
 This script performs the following actions:
 
 * Updates and Upgrades with apt-get update && apt-get upgrade
