@@ -14,7 +14,7 @@ apt-get update
 apt-get upgrade
 
 # Install python and required modules
-apt-get install python python-setuptools python-configobj python-jinja2 picocom
+apt-get install python python-setuptools python-configobj python-jinja2 python-serial picocom
 
 # Uncomment the following lines to clone and install ino toolkit
 #git clone git://github.com/amperka/ino.git
